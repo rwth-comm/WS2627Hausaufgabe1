@@ -3,7 +3,8 @@
 # Julian Hilderbandt hat die Hausaufgabe gemacht
 <<<<<<< HEAD
 
-Luisa Test 2
+#Luisa Test 2
+#Jolina Test
 =======
 # Jana Zenner hat die Hausaufgabe gemacht. nochmal
 # Mia Hatstein hat die Hausaufgabe gemacht. nochmal2
