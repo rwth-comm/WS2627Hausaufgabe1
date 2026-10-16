@@ -10,3 +10,4 @@
 # Greta hat die Hausaufgabe gemacht
 # Joelina Richter hat die Hausaufgabe gemacht.
 # Amelie Gamm hat die Hausaufgabe gemacht.
+#Rosa-Lynn Mattig hat die Hausaufgabe gemacht.
