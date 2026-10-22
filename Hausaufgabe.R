@@ -10,6 +10,12 @@
 # Greta hat die Hausaufgabe gemacht
 # Joelina Richter hat die Hausaufgabe gemacht.
 # Amelie Gamm hat die Hausaufgabe gemacht.
-#Rosa-Lynn Mattig hat die Hausaufgabe gemacht.
+# Rosa-Lynn Mattig hat die Hausaufgabe gemacht.
 # Luisa Loreng hat die Hausaufgabe gemacht.
+# Denisha Halim hat die Hausaufgabe gemacht.
+# Jule Däuble hat die Hausaufgabe gemacht. 
+# Charlotte Rees hat die Hausaufgabe gemacht. 
+# Lee Schwetke hat die Hausaufgabe gemacht.
+# Jonathan Schock hat die Hausaufgabe gemacht.
 # Angela Karow hat die Hausaufgabe gemacht.
+
