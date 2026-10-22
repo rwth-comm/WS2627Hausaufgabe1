@@ -15,3 +15,4 @@
 # Denisha Halim hat die Hausaufgabe gemacht.
 # Jule Däuble hat die Hausaufgabe gemacht. 
 # Charlotte Rees hat die Hausaufgabe gemacht. 
+# Lee Schwetke hat die Hausaufgabe gemacht.
