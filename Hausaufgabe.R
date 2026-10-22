@@ -13,3 +13,4 @@
 #Rosa-Lynn Mattig hat die Hausaufgabe gemacht.
 # Luisa Loreng hat die Hausaufgabe gemacht.
 # Denisha Halim hat die Hausaufgabe gemacht.
+# Jule Däuble hat die Hausaufgabe gemacht. 
