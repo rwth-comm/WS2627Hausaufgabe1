@@ -12,4 +12,4 @@
 # Amelie Gamm hat die Hausaufgabe gemacht.
 #Rosa-Lynn Mattig hat die Hausaufgabe gemacht.
 # Luisa Loreng hat die Hausaufgabe gemacht.
-
+# Angela Karow hat die Hausaufgabe gemacht.
